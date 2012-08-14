@@ -1,0 +1,20 @@
+PR ITSS The Service Finder
+
+Technical overview:
+  Version Control:
+    GitHub
+  Server Side:
+      Framework: Flask
+      Database: sqlite
+      ORM: SQLAlchemy
+      Form: WTForms
+
+  Client Side:
+      HTML5
+      JQUERY
+      Ember.js or Backbone.js?
+
+Functional overview:
+A simple website to house information related to Support of
+internal/external applications used and supported by Pernod Ricard
+IT
